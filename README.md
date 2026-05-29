@@ -167,9 +167,11 @@ streamlit run app.py
 
 # Links
 
-GitHub: [github.com/meghadeopa/Student-Performance-AI](https://github.com/meghadeopa/Student-Performance-AI) 
-Live App: [Streamlit app](https://meghadeopa-student-performance.streamlit.app/)
-LinkedIn: [linkedin.com/in/meghadeopa1505](https://linkedin.com/in/meghadeopa1505) 
+**GitHub**: | [github.com/meghadeopa/Student-Performance-AI](https://github.com/meghadeopa/Student-Performance-AI) |
+
+**Live App**: | [Streamlit app](https://meghadeopa-student-performance.streamlit.app/) |
+
+**LinkedIn**: | [linkedin.com/in/meghadeopa1505](https://linkedin.com/in/meghadeopa1505) |
 
 # Author
 
