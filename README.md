@@ -10,7 +10,7 @@
 # Project Overview
 
 Education systems struggle to identify at-risk students early enough to intervene effectively.
-This project builds a complete end-to-end Machine Learning framework that analyses, predicts, and classifies student academic performance — and deploys it as a live web application for real-time use.
+This project builds a complete end-to-end Machine Learning framework that analyses, predicts, and classifies student academic performance and deploys it as a live web application for real-time use.
 Instead of waiting for exam results, this system predicts outcomes in advance, giving educators time to act.
 
 ----------------------------------------------------------------------------------------------------------------------------
